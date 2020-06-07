@@ -1,3 +1,5 @@
+#It is a registration form project, user will register and their data will store on form.txt file
+
 from tkinter import *
 
 root = Tk()
